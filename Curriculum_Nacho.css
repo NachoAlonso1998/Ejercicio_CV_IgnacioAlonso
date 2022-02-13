@@ -64,7 +64,7 @@ body{
     position: relative;
     width: 220px;
     height: 250px;
-    border-radius: 10%;
+    border-radius: 5%;
     overflow: hidden;
 }
 .textoPerfil .imagen img{
@@ -182,7 +182,7 @@ p{
 .about .box .year_company h5{
     text-transform: uppercase;
     color: #177393;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 .about .box .text h4{
